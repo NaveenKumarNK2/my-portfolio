@@ -91,7 +91,7 @@ export default function Portfolio() {
           <div className="sidebar-top">
             <div className="status-pill"><span className="dot"></span>Open to new roles</div>
             <div className="id-name">R.&nbsp;Naveenkumar</div>
-            <div className="id-role">Laravel &amp; PHP Developer</div>
+            <div className="id-role">Software Developer</div>
             <div className="id-loc">Coimbatore, Tamil Nadu, India</div>
 
             <nav className="side-nav">
@@ -119,8 +119,8 @@ export default function Portfolio() {
         <main className="main" id="top">
           {/* HERO */}
           <section>
-            <p className="hero-lede">Software engineer keeping <em>60+ production sites</em> secure, fast, and online.</p>
-            <p className="hero-sub">Five years building and hardening Laravel &amp; PHP applications — from government multi-site platforms to client CMS portals — with a track record of zero critical downtime and 100% on-time delivery.</p>
+            <p className="hero-lede">Software Developer keeping <em>60+ production sites</em> secure, fast, and online.</p>
+            <p className="hero-sub">Five years building and hardening Web applications — from government multi-site platforms to client CMS portals — with a track record of zero critical downtime and 100% on-time delivery.</p>
 
             <div className="metric-grid">
               <div className="metric-tile">
@@ -154,7 +154,7 @@ export default function Portfolio() {
 
             <div className="exp-panel">
               <div className="exp-head">
-                <span className="exp-role">Laravel &amp; PHP Developer</span>
+                <span className="exp-role">Software Developer</span>
                 <span className="exp-period mono">2021 — Present</span>
               </div>
               <p className="exp-org">Ardhas Technology, Coimbatore</p>
