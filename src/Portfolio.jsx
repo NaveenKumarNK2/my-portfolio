@@ -89,7 +89,7 @@ export default function Portfolio() {
       <div className="shell">
         <aside className="sidebar">
           <div className="sidebar-top">
-            <div className="status-pill"><span className="dot"></span>Open to new roles</div>
+            <div className="status-pill"><span className="dot"></span>Open to work</div>
             <div className="id-name">R.&nbsp;Naveenkumar</div>
             <div className="id-role">Software Developer</div>
             <div className="id-loc">Coimbatore, Tamil Nadu, India</div>
